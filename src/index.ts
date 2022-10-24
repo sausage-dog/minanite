@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { Minanite } from './Minanite.js';
 
-export { Add };
+export { Minanite };
