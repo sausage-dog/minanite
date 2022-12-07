@@ -1,6 +1,6 @@
 # Mina zkApp: Minanite
 
-This template uses TypeScript.
+Minanite equips organisations with a fair and anonymous tool for its members to voice and upload 'Issue' regarding the organisation. it can be used for private voting, whistle-blowing and more!   
 
 ## How to build
 
